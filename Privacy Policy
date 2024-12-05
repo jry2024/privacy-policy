@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            max-width: 800px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        ul {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Bitcoin Odyssey</strong> respects your privacy. This Privacy Policy explains how we collect, use, and share information when you use our app.</p>
+    
+    <h2>Information We Collect</h2>
+    <p>We do not collect personal data directly. However, our app uses third-party services, including <strong>Google AdMob</strong>, which may collect data to provide better advertising experiences.</p>
+    
+    <h2>AdMob Data Collection</h2>
+    <p><strong>AdMob</strong>, operated by Google, may collect:</p>
+    <ul>
+        <li><strong>Device Information</strong>: IP address, device identifiers, operating system version.</li>
+        <li><strong>App Usage Data</strong>: Interactions with ads (e.g., clicks, views).</li>
+        <li><strong>Demographic Data</strong>: Information like age, gender, and interests may be used for personalized ads.</li>
+    </ul>
+    <p>For more details on how AdMob handles data, please review <a href="https://policies.google.com/privacy" target="_blank">Google’s Privacy Policy</a>.</p>
+    
+    <h2>How We Use Information</h2>
+    <p>The information collected by AdMob is used to:</p>
+    <ul>
+        <li>Serve ads within our app.</li>
+        <li>Personalize ads (if applicable).</li>
+    </ul>
+    <p>We do not directly collect, store, or share any personal information from our users.</p>
+    
+    <h2>Third-Party Services</h2>
+    <p>Our app uses AdMob by Google. AdMob’s practices are governed by <a href="https://policies.google.com/privacy" target="_blank">Google’s Privacy Policy</a> and the <a href="https://support.google.com/admob/answer/6128543" target="_blank">Google AdMob Policy</a>.</p>
+    
+    <h2>User Rights</h2>
+    <p>You can manage your ad preferences or opt out of personalized ads by:</p>
+    <ul>
+        <li>Adjusting your device settings (e.g., reset Advertising ID on Android or Limit Ad Tracking on iOS).</li>
+        <li>Visiting <a href="https://adssettings.google.com" target="_blank">Google’s Ad Settings</a>.</li>
+    </ul>
+    
+    <h2>Data Security</h2>
+    <p>We do not collect or store user data directly. Any data collected by AdMob is managed securely by Google.</p>
+    
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us:</p>
+    <p><a href="mailto:bitcoinodysseyteam@gmail.com">bitcoinodysseyteam@gmail.com</a></p>
+</body>
+</html>
